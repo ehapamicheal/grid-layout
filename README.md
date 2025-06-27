@@ -1,3 +1,4 @@
+![desktop-img](https://github.com/user-attachments/assets/b5a8a5b0-37dc-4204-8134-1521d0643ef2)
 # Responsive CSS Grid Layout Project
 
 ## 📖 Overview
