@@ -19,6 +19,8 @@ npx tailwindcss -i ./styles.css -o ./output.css --watch
 
 ## 📱 Screenshots
 
+![Image_Ait](https://github.com/ehapamicheal/grid-layout/blob/2e9745bd0877e9b70c96250e6c5d251ec6717a3f/screenshots/desktop-img.png)
+
 | Mobile View | Tablet View | Desktop View |
 |-------------|-------------|---------------|
 | ![Mobile](screenshots/mobile-img.png) | ![Tablet](screenshots/tablet-img.png) | ![Desktop](screenshots/desktop-img.png) |
