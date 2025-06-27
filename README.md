@@ -15,3 +15,10 @@ This project is a responsive layout built with **HTML**, **Tailwind CSS v4**, an
 
 ```bash
 npx tailwindcss -i ./styles.css -o ./output.css --watch
+
+
+## 📱 Screenshots
+
+| Mobile View | Tablet View | Desktop View |
+|-------------|-------------|---------------|
+| ![Mobile](screenshots/mobile-img.png) | ![Tablet](screenshots/tablet-img.png) | ![Desktop](screenshots/desktop-img.png) |
