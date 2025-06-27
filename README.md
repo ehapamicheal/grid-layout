@@ -19,3 +19,5 @@ npx tailwindcss -i ./styles.css -o ./output.css --watch
 
 ## 📱 Screenshots
 
+![Alt text](screenshots/desktop-img.png)
+
