@@ -19,5 +19,5 @@ npx tailwindcss -i ./styles.css -o ./output.css --watch
 
 ## 📱 Screenshots
 
-![Alt text](screenshots/desktop-img.png)
+![alt text](https://github.com/ehapamicheal/grid-layout/blob/d8daa5016fa80fd75a044a8becb81bba252a1f3e/screenshots/desktop-img.png)
 
